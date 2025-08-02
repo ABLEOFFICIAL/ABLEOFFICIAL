@@ -1,8 +1,6 @@
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ekwesi+Joshua+CHIMEREMEZE;Front-End+Developer+💻;Aspiring+Blockchain+Developer+🔗;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi%2C%20I%27m%20Ekwesi%20Joshua%20CHIMEREMEZE;Front-End%20Developer%20%F0%9F%92%BB;Aspiring%20Blockchain%20Developer%20%F0%9F%94%97;Always%20Learning%20New%20Things%20%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABLEOFFICIAL&label=Profile+Views&color=gold&style=flat-square" alt="Profile views" />
