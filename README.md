@@ -3,9 +3,8 @@
 </p>
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABLEOFFICIAL&label=Profile+Views&color=gold&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ABLEOFFICIAL&label=Profile+Views&color=FFD700&style=flat-square" alt="Profile views" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
