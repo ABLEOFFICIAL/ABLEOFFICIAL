@@ -39,7 +39,7 @@
 <p align="center">
   <a href="mailto:ekwesijoshua@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/joshua-ekwesi-4920ab267"><img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://x.com/d_coder_x"><img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=twitter&logoColor=black" /></a>
+  <a href="https://x.com/d_coder_josh"><img src="https://img.shields.io/badge/Twitter-FFD700?style=for-the-badge&logo=twitter&logoColor=black" /></a>
   <a href="https://github.com/ABLEOFFICIAL"><img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
